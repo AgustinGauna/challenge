@@ -1,0 +1,32 @@
+.users {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.user {
+  width: 100%;
+  padding-top: 40px;
+}
+
+.row-par {
+  background-color: rgb(114, 113, 113);
+}
+
+.row-inpar {
+  background-color: rgb(77, 76, 76);
+}
+
+.app {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.buttons {
+  display: flex;
+  gap: 15px;
+}
